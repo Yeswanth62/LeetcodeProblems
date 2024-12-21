@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
