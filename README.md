@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -45,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
