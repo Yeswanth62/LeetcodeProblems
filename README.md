@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
 ## Union Find
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
 | [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
