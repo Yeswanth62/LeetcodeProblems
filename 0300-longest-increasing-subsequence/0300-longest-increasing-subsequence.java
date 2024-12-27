@@ -5,16 +5,21 @@ class Solution {
         }
         int n=nums.length;
         int[] dp=new int[n];
-        Arrays.fill(dp,1);
-
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(nums[i]>nums[j]){
-                    dp[i]=Math.max(dp[i],dp[j]+1);
-                }
+       int ans=0;
+       for(int i=0;i<n;i++){
+        int lo=0,hi=ans;
+        while(lo<hi){
+            int m=lo+(hi-lo)/2;
+            if(dp[m]<nums[i]){
+                lo=m+1;
+            }
+            else{
+                hi=m;
             }
         }
-        int maxlen=Arrays.stream(dp).max().orElse(0);
-        return maxlen;
+        dp[lo]=nums[i];
+        if(lo==ans) ans++;
+       }
+       return ans;
     }
 }
