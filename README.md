@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
+| [1013-fibonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -87,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
