@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
