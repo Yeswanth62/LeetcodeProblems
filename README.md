@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0377-combination-sum-iv) |
+| [0485-max-consecutive-ones](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
