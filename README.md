@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
