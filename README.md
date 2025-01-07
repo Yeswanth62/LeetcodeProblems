@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
