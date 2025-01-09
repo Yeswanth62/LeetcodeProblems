@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
