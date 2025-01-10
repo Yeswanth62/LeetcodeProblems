@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
+| [0952-word-subsets](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0079-word-search) |
+| [0952-word-subsets](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0952-word-subsets) |
 ## Sorting
 |  |
 | ------- |
