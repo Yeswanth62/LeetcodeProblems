@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0279-perfect-squares) |
 ## Union Find
@@ -183,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yeswanth62/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
